@@ -1,0 +1,571 @@
+
+2018-06-05 19:59:30...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:00:40...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:00:56...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:01:03...Begin System Check Process *************
+2018-06-05 20:01:03...XML Parsing Support Found
+2018-06-05 20:01:03...MBString Support Found
+2018-06-05 20:01:03...ZIP Support Found
+2018-06-05 20:01:03.../custom directory and subdirectory check passed
+2018-06-05 20:01:03...cache directory and subdirectory check passed
+2018-06-05 20:01:04.../module  directory and subdirectory check passed
+2018-06-05 20:01:04.../upload directory check passed
+2018-06-05 20:01:04.../zip check passed
+2018-06-05 20:01:04...PCRE version check passed
+2018-06-05 20:01:04...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:01:04...php.ini location found. C:\xampp71\php\php.ini
+2018-06-05 20:01:04...Outputting HTML for System check
+2018-06-05 20:01:04...No Errors were found *************
+2018-06-05 20:01:07...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:01:14...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:01:22...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:01:47...Begin DB Check Process *************
+2018-06-05 20:01:47...testing with mysql:mysqli
+2018-06-05 20:01:47...Basic form info is valid, continuing Process.
+2018-06-05 20:01:47...Testing user account...
+2018-06-05 20:01:47...Connection made using  host: localhost, usr: root
+2018-06-05 20:01:47...Testing priviliged account...
+2018-06-05 20:01:47...Connection made using  host: localhost, usr: root
+2018-06-05 20:01:47...DB not selected, will create sugarce65
+2018-06-05 20:01:47...Passed DB install check
+2018-06-05 20:01:47...SUCCESS:: no errors detected!
+2018-06-05 20:01:47...End DB Check Process *************
+2018-06-05 20:01:47...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:02:14...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:02:29...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:02:34...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:02:34...calling handleSugarConfig()
+2018-06-05 20:02:34...calling handleLog4Php()
+2018-06-05 20:02:34...calling handleHtaccess()
+2018-06-05 20:02:34...calling handleDbCreateDatabase()
+2018-06-05 20:02:35...looping through all the Beans and create their tables
+2018-06-05 20:02:35...processing table acl_actions
+2018-06-05 20:02:35...creating table acl_actions
+2018-06-05 20:02:35...creating Relationship Meta for ACLAction
+2018-06-05 20:02:35...processing table acl_roles
+2018-06-05 20:02:35...creating table acl_roles
+2018-06-05 20:02:35...creating Relationship Meta for ACLRole
+2018-06-05 20:02:35...processing table relationships
+2018-06-05 20:02:35...creating table relationships
+2018-06-05 20:02:35...creating Relationship Meta for Relationship
+2018-06-05 20:02:35...processing table leads
+2018-06-05 20:02:35...creating table leads
+2018-06-05 20:02:35...creating Relationship Meta for Lead
+2018-06-05 20:02:35...processing table cases
+2018-06-05 20:02:35...creating table cases
+2018-06-05 20:02:35...creating Relationship Meta for Case
+2018-06-05 20:09:51...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:10:27...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:10:27...calling handleSugarConfig()
+2018-06-05 20:10:27...calling handleLog4Php()
+2018-06-05 20:10:27...calling handleHtaccess()
+2018-06-05 20:10:27...calling handleDbCreateDatabase()
+2018-06-05 20:10:27...looping through all the Beans and create their tables
+2018-06-05 20:10:27...processing table acl_actions
+2018-06-05 20:10:27...creating table acl_actions
+2018-06-05 20:10:27...creating Relationship Meta for ACLAction
+2018-06-05 20:10:27...processing table acl_roles
+2018-06-05 20:10:27...creating table acl_roles
+2018-06-05 20:10:27...creating Relationship Meta for ACLRole
+2018-06-05 20:10:27...processing table relationships
+2018-06-05 20:10:27...creating table relationships
+2018-06-05 20:10:27...creating Relationship Meta for Relationship
+2018-06-05 20:10:27...processing table leads
+2018-06-05 20:10:27...creating table leads
+2018-06-05 20:10:27...creating Relationship Meta for Lead
+2018-06-05 20:15:33...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:15:50...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:15:52...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:15:57...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:15:59...Begin System Check Process *************
+2018-06-05 20:15:59...XML Parsing Support Found
+2018-06-05 20:15:59...MBString Support Found
+2018-06-05 20:15:59...ZIP Support Found
+2018-06-05 20:15:59.../custom directory and subdirectory check passed
+2018-06-05 20:15:59...cache directory and subdirectory check passed
+2018-06-05 20:16:01.../module  directory and subdirectory check passed
+2018-06-05 20:16:01.../upload directory check passed
+2018-06-05 20:16:01.../zip check passed
+2018-06-05 20:16:01...PCRE version check passed
+2018-06-05 20:16:01...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:16:01...php.ini location found. C:\xampp71\php\php.ini
+2018-06-05 20:16:01...Outputting HTML for System check
+2018-06-05 20:16:01...No Errors were found *************
+2018-06-05 20:16:03...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:16:06...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:16:11...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:16:17...Begin DB Check Process *************
+2018-06-05 20:16:17...testing with mysql:mysqli
+2018-06-05 20:16:17...Basic form info is valid, continuing Process.
+2018-06-05 20:16:17...Testing user account...
+2018-06-05 20:16:17...Connection made using  host: localhost, usr: root
+2018-06-05 20:16:17...Testing priviliged account...
+2018-06-05 20:16:17...Connection made using  host: localhost, usr: root
+2018-06-05 20:16:17...ERROR:: The provided Database Name already exists.  You can<br>1.  hit the back button and choose a new database name <br>2.  click next and continue but all existing tables on this database will be dropped.  <strong>This means your tables and data will be blown away.</strong>
+2018-06-05 20:16:17...Passed DB install check
+2018-06-05 20:16:17...WARNING:: no errors detected, but DB tables will be dropped!, issuing warning to user
+2018-06-05 20:16:17...End DB Check Process *************
+2018-06-05 20:16:20...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:16:26...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:16:30...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:16:33...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:16:33...calling handleSugarConfig()
+2018-06-05 20:16:33...calling handleLog4Php()
+2018-06-05 20:16:33...calling handleHtaccess()
+2018-06-05 20:16:33...calling handleDbCharsetCollation()
+2018-06-05 20:16:33...looping through all the Beans and create their tables
+2018-06-05 20:16:33...processing table acl_actions
+2018-06-05 20:16:33...dropping table acl_actions
+2018-06-05 20:16:33...creating table acl_actions
+2018-06-05 20:16:33...creating Relationship Meta for ACLAction
+2018-06-05 20:16:33...processing table acl_roles
+2018-06-05 20:16:33...dropping table acl_roles
+2018-06-05 20:16:33...creating table acl_roles
+2018-06-05 20:16:33...creating Relationship Meta for ACLRole
+2018-06-05 20:16:33...processing table relationships
+2018-06-05 20:16:34...dropping table relationships
+2018-06-05 20:16:34...creating table relationships
+2018-06-05 20:16:34...creating Relationship Meta for Relationship
+2018-06-05 20:16:34...processing table leads
+2018-06-05 20:16:34...dropping table leads
+2018-06-05 20:16:34...creating table leads
+2018-06-05 20:16:34...creating Relationship Meta for Lead
+2018-06-05 20:16:34...processing table cases
+2018-06-05 20:16:34...dropping table cases
+2018-06-05 20:16:34...creating table cases
+2018-06-05 20:16:34...creating Relationship Meta for Case
+2018-06-05 20:16:34...processing table bugs
+2018-06-05 20:16:34...dropping table bugs
+2018-06-05 20:16:34...creating table bugs
+2018-06-05 20:16:34...creating Relationship Meta for Bug
+2018-06-05 20:19:20...installerHook: Could not find custom/install/install_hooks.php
+2018-06-05 20:19:20...calling handleSugarConfig()
+2018-06-05 20:19:20...calling handleLog4Php()
+2018-06-05 20:19:20...calling handleHtaccess()
+2018-06-05 20:19:20...calling handleDbCharsetCollation()
+2018-06-05 20:19:20...looping through all the Beans and create their tables
+2018-06-05 20:19:20...processing table acl_actions
+2018-06-05 20:19:20...dropping table acl_actions
+2018-06-05 20:19:20...creating table acl_actions
+2018-06-05 20:19:20...creating Relationship Meta for ACLAction
+2018-06-05 20:19:20...processing table acl_roles
+2018-06-05 20:19:20...dropping table acl_roles
+2018-06-05 20:19:20...creating table acl_roles
+2018-06-05 20:19:20...creating Relationship Meta for ACLRole
+2018-06-05 20:19:20...processing table relationships
+2018-06-05 20:19:20...dropping table relationships
+2018-06-05 20:19:20...creating table relationships
+2018-06-05 20:19:20...creating Relationship Meta for Relationship
+2018-06-05 20:19:20...processing table leads
+2018-06-05 20:19:20...dropping table leads
+2018-06-05 20:19:20...creating table leads
+2018-06-05 20:19:20...creating Relationship Meta for Lead
+2018-06-05 20:19:20...processing table cases
+2018-06-05 20:19:20...dropping table cases
+2018-06-05 20:19:20...creating table cases
+2018-06-05 20:19:20...creating Relationship Meta for Case
+2018-06-05 20:19:20...processing table bugs
+2018-06-05 20:19:21...dropping table bugs
+2018-06-05 20:19:21...creating table bugs
+2018-06-05 20:19:21...creating Relationship Meta for Bug
+2018-06-05 20:19:21...processing table users
+2018-06-05 20:19:21...dropping table users
+2018-06-05 20:19:21...creating table users
+2018-06-05 20:19:21...creating Relationship Meta for User
+2018-06-05 20:19:21...processing table campaign_log
+2018-06-05 20:19:21...dropping table campaign_log
+2018-06-05 20:19:21...creating table campaign_log
+2018-06-05 20:19:21...creating Relationship Meta for CampaignLog
+2018-06-05 20:19:21...processing table project
+2018-06-05 20:19:21...dropping table project
+2018-06-05 20:19:21...creating table project
+2018-06-05 20:19:21...creating Relationship Meta for Project
+2018-06-05 20:19:21...processing table project_task
+2018-06-05 20:19:21...dropping table project_task
+2018-06-05 20:19:21...creating table project_task
+2018-06-05 20:19:21...creating Relationship Meta for ProjectTask
+2018-06-05 20:19:21...processing table campaigns
+2018-06-05 20:19:21...dropping table campaigns
+2018-06-05 20:19:21...creating table campaigns
+2018-06-05 20:19:21...creating Relationship Meta for Campaign
+2018-06-05 20:19:21...processing table prospect_lists
+2018-06-05 20:19:21...dropping table prospect_lists
+2018-06-05 20:19:21...creating table prospect_lists
+2018-06-05 20:19:21...creating Relationship Meta for ProspectList
+2018-06-05 20:19:21...processing table prospects
+2018-06-05 20:19:21...dropping table prospects
+2018-06-05 20:19:21...creating table prospects
+2018-06-05 20:19:21...creating Relationship Meta for Prospect
+2018-06-05 20:19:21...processing table email_marketing
+2018-06-05 20:19:21...dropping table email_marketing
+2018-06-05 20:19:21...creating table email_marketing
+2018-06-05 20:19:21...creating Relationship Meta for EmailMarketing
+2018-06-05 20:19:21...processing table campaign_trkrs
+2018-06-05 20:19:21...dropping table campaign_trkrs
+2018-06-05 20:19:21...creating table campaign_trkrs
+2018-06-05 20:19:21...creating Relationship Meta for CampaignTracker
+2018-06-05 20:19:21...processing table releases
+2018-06-05 20:19:21...dropping table releases
+2018-06-05 20:19:21...creating table releases
+2018-06-05 20:19:21...creating Relationship Meta for Release
+2018-06-05 20:19:21...processing table emailman
+2018-06-05 20:19:21...dropping table emailman
+2018-06-05 20:19:21...creating table emailman
+2018-06-05 20:19:21...creating Relationship Meta for EmailMan
+2018-06-05 20:19:21...processing table schedulers
+2018-06-05 20:19:21...dropping table schedulers
+2018-06-05 20:19:21...creating table schedulers
+2018-06-05 20:19:21...creating Relationship Meta for Scheduler
+2018-06-05 20:19:21...processing table job_queue
+2018-06-05 20:19:21...dropping table job_queue
+2018-06-05 20:19:21...creating table job_queue
+2018-06-05 20:19:21...creating Relationship Meta for SchedulersJob
+2018-06-05 20:19:21...processing table contacts
+2018-06-05 20:19:21...dropping table contacts
+2018-06-05 20:19:21...creating table contacts
+2018-06-05 20:19:21...creating Relationship Meta for Contact
+2018-06-05 20:19:22...processing table accounts
+2018-06-05 20:19:22...dropping table accounts
+2018-06-05 20:19:22...creating table accounts
+2018-06-05 20:19:22...creating Relationship Meta for Account
+2018-06-06 11:26:36...installerHook: Could not find custom/install/install_hooks.php
+2018-06-06 11:26:53...installerHook: Could not find custom/install/install_hooks.php
+2018-06-06 11:26:55...installerHook: Could not find custom/install/install_hooks.php
+2018-06-06 11:26:59...installerHook: Could not find custom/install/install_hooks.php
+2018-06-06 11:27:01...Begin System Check Process *************
+2018-06-06 11:27:01...XML Parsing Support Found
+2018-06-06 11:27:01...MBString Support Found
+2018-06-06 11:27:01...ZIP Support Found
+2018-06-06 11:27:01.../custom directory and subdirectory check passed
+2018-06-06 11:27:01...cache directory and subdirectory check passed
+2018-06-06 11:27:02.../module  directory and subdirectory check passed
+2018-06-06 11:27:02.../upload directory check passed
+2018-06-06 11:27:02.../zip check passed
+2018-06-06 11:27:02...PCRE version check passed
+2018-06-06 11:27:02...installerHook: Could not find custom/install/install_hooks.php
+2018-06-06 11:27:02...php.ini location found. C:\xampp71\php\php.ini
+2018-06-06 11:27:02...Outputting HTML for System check
+2018-06-06 11:27:02...No Errors were found *************
+2018-06-06 11:27:05...installerHook: Could not find custom/install/install_hooks.php
+2018-06-06 11:27:08...installerHook: Could not find custom/install/install_hooks.php
+2018-06-06 11:27:12...installerHook: Could not find custom/install/install_hooks.php
+2018-06-06 11:27:19...Begin DB Check Process *************
+2018-06-06 11:27:19...testing with mysql:mysqli
+2018-06-06 11:27:19...Basic form info is valid, continuing Process.
+2018-06-06 11:27:19...Testing user account...
+2018-06-06 11:27:19...Connection made using  host: localhost, usr: root
+2018-06-06 11:27:19...Testing priviliged account...
+2018-06-06 11:27:19...Connection made using  host: localhost, usr: root
+2018-06-06 11:27:19...ERROR:: The provided Database Name already exists.  You can<br>1.  hit the back button and choose a new database name <br>2.  click next and continue but all existing tables on this database will be dropped.  <strong>This means your tables and data will be blown away.</strong>
+2018-06-06 11:27:19...Passed DB install check
+2018-06-06 11:27:19...WARNING:: no errors detected, but DB tables will be dropped!, issuing warning to user
+2018-06-06 11:27:19...End DB Check Process *************
+2018-06-06 11:27:21...installerHook: Could not find custom/install/install_hooks.php
+2018-06-06 11:27:38...installerHook: Could not find custom/install/install_hooks.php
+2018-06-06 11:27:41...installerHook: Could not find custom/install/install_hooks.php
+2018-06-06 11:27:43...installerHook: Could not find custom/install/install_hooks.php
+2018-06-06 11:27:43...calling handleSugarConfig()
+2018-06-06 11:27:43...calling handleLog4Php()
+2018-06-06 11:27:43...calling handleHtaccess()
+2018-06-06 11:27:43...calling handleDbCharsetCollation()
+2018-06-06 11:27:43...looping through all the Beans and create their tables
+2018-06-06 11:27:43...processing table acl_actions
+2018-06-06 11:27:43...dropping table acl_actions
+2018-06-06 11:27:43...creating table acl_actions
+2018-06-06 11:27:43...creating Relationship Meta for ACLAction
+2018-06-06 11:27:43...processing table acl_roles
+2018-06-06 11:27:43...dropping table acl_roles
+2018-06-06 11:27:43...creating table acl_roles
+2018-06-06 11:27:43...creating Relationship Meta for ACLRole
+2018-06-06 11:27:43...processing table relationships
+2018-06-06 11:27:43...dropping table relationships
+2018-06-06 11:27:43...creating table relationships
+2018-06-06 11:27:43...creating Relationship Meta for Relationship
+2018-06-06 11:27:43...processing table leads
+2018-06-06 11:27:43...dropping table leads
+2018-06-06 11:27:43...creating table leads
+2018-06-06 11:27:43...creating Relationship Meta for Lead
+2018-06-06 11:27:43...processing table cases
+2018-06-06 11:27:43...dropping table cases
+2018-06-06 11:27:43...creating table cases
+2018-06-06 11:27:43...creating Relationship Meta for Case
+2018-06-06 11:27:43...processing table bugs
+2018-06-06 11:27:43...dropping table bugs
+2018-06-06 11:27:43...creating table bugs
+2018-06-06 11:27:43...creating Relationship Meta for Bug
+2018-06-06 11:27:43...processing table users
+2018-06-06 11:27:43...dropping table users
+2018-06-06 11:27:43...creating table users
+2018-06-06 11:27:43...creating Relationship Meta for User
+2018-06-06 11:27:43...processing table campaign_log
+2018-06-06 11:27:43...dropping table campaign_log
+2018-06-06 11:27:43...creating table campaign_log
+2018-06-06 11:27:43...creating Relationship Meta for CampaignLog
+2018-06-06 11:27:43...processing table project
+2018-06-06 11:27:43...dropping table project
+2018-06-06 11:27:44...creating table project
+2018-06-06 11:27:44...creating Relationship Meta for Project
+2018-06-06 11:27:44...processing table project_task
+2018-06-06 11:27:44...dropping table project_task
+2018-06-06 11:27:44...creating table project_task
+2018-06-06 11:27:44...creating Relationship Meta for ProjectTask
+2018-06-06 11:27:44...processing table campaigns
+2018-06-06 11:27:44...dropping table campaigns
+2018-06-06 11:27:44...creating table campaigns
+2018-06-06 11:27:44...creating Relationship Meta for Campaign
+2018-06-06 11:27:44...processing table prospect_lists
+2018-06-06 11:27:44...dropping table prospect_lists
+2018-06-06 11:27:44...creating table prospect_lists
+2018-06-06 11:27:44...creating Relationship Meta for ProspectList
+2018-06-06 11:27:44...processing table prospects
+2018-06-06 11:27:44...dropping table prospects
+2018-06-06 11:27:44...creating table prospects
+2018-06-06 11:27:44...creating Relationship Meta for Prospect
+2018-06-06 11:27:44...processing table email_marketing
+2018-06-06 11:27:44...dropping table email_marketing
+2018-06-06 11:27:44...creating table email_marketing
+2018-06-06 11:27:44...creating Relationship Meta for EmailMarketing
+2018-06-06 11:27:44...processing table campaign_trkrs
+2018-06-06 11:27:44...dropping table campaign_trkrs
+2018-06-06 11:27:44...creating table campaign_trkrs
+2018-06-06 11:27:44...creating Relationship Meta for CampaignTracker
+2018-06-06 11:27:44...processing table releases
+2018-06-06 11:27:44...dropping table releases
+2018-06-06 11:27:44...creating table releases
+2018-06-06 11:27:44...creating Relationship Meta for Release
+2018-06-06 11:27:44...processing table emailman
+2018-06-06 11:27:44...dropping table emailman
+2018-06-06 11:27:44...creating table emailman
+2018-06-06 11:27:44...creating Relationship Meta for EmailMan
+2018-06-06 11:27:44...processing table schedulers
+2018-06-06 11:27:44...dropping table schedulers
+2018-06-06 11:27:44...creating table schedulers
+2018-06-06 11:27:44...creating Relationship Meta for Scheduler
+2018-06-06 11:27:44...processing table job_queue
+2018-06-06 11:27:44...dropping table job_queue
+2018-06-06 11:27:44...creating table job_queue
+2018-06-06 11:27:44...creating Relationship Meta for SchedulersJob
+2018-06-06 11:27:44...processing table contacts
+2018-06-06 11:27:44...dropping table contacts
+2018-06-06 11:27:44...creating table contacts
+2018-06-06 11:27:44...creating Relationship Meta for Contact
+2018-06-06 11:27:44...processing table accounts
+2018-06-06 11:27:45...dropping table accounts
+2018-06-06 11:27:45...creating table accounts
+2018-06-06 11:27:45...creating Relationship Meta for Account
+2018-06-06 11:33:01...installerHook: Could not find custom/install/install_hooks.php
+2018-06-06 11:33:01...calling handleSugarConfig()
+2018-06-06 11:33:01...calling handleLog4Php()
+2018-06-06 11:33:01...calling handleHtaccess()
+2018-06-06 11:33:01...calling handleDbCharsetCollation()
+2018-06-06 11:33:01...looping through all the Beans and create their tables
+2018-06-06 11:33:01...processing table acl_actions
+2018-06-06 11:33:01...dropping table acl_actions
+2018-06-06 11:33:01...creating table acl_actions
+2018-06-06 11:33:01...creating Relationship Meta for ACLAction
+2018-06-06 11:33:01...processing table acl_roles
+2018-06-06 11:33:01...dropping table acl_roles
+2018-06-06 11:33:01...creating table acl_roles
+2018-06-06 11:33:01...creating Relationship Meta for ACLRole
+2018-06-06 11:33:01...processing table relationships
+2018-06-06 11:33:01...dropping table relationships
+2018-06-06 11:33:01...creating table relationships
+2018-06-06 11:33:01...creating Relationship Meta for Relationship
+2018-06-06 11:33:02...processing table leads
+2018-06-06 11:33:02...dropping table leads
+2018-06-06 11:33:02...creating table leads
+2018-06-06 11:33:02...creating Relationship Meta for Lead
+2018-06-06 11:33:02...processing table cases
+2018-06-06 11:33:02...dropping table cases
+2018-06-06 11:33:02...creating table cases
+2018-06-06 11:33:02...creating Relationship Meta for Case
+2018-06-06 11:33:02...processing table bugs
+2018-06-06 11:33:02...dropping table bugs
+2018-06-06 11:33:02...creating table bugs
+2018-06-06 11:33:02...creating Relationship Meta for Bug
+2018-06-06 11:33:02...processing table users
+2018-06-06 11:33:02...dropping table users
+2018-06-06 11:33:02...creating table users
+2018-06-06 11:33:02...creating Relationship Meta for User
+2018-06-06 11:33:02...processing table campaign_log
+2018-06-06 11:33:02...dropping table campaign_log
+2018-06-06 11:33:02...creating table campaign_log
+2018-06-06 11:33:02...creating Relationship Meta for CampaignLog
+2018-06-06 11:33:02...processing table project
+2018-06-06 11:33:02...dropping table project
+2018-06-06 11:33:02...creating table project
+2018-06-06 11:33:02...creating Relationship Meta for Project
+2018-06-06 11:33:02...processing table project_task
+2018-06-06 11:33:02...dropping table project_task
+2018-06-06 11:33:02...creating table project_task
+2018-06-06 11:33:02...creating Relationship Meta for ProjectTask
+2018-06-06 11:33:02...processing table campaigns
+2018-06-06 11:33:02...dropping table campaigns
+2018-06-06 11:33:02...creating table campaigns
+2018-06-06 11:33:02...creating Relationship Meta for Campaign
+2018-06-06 11:33:02...processing table prospect_lists
+2018-06-06 11:33:02...dropping table prospect_lists
+2018-06-06 11:33:02...creating table prospect_lists
+2018-06-06 11:33:02...creating Relationship Meta for ProspectList
+2018-06-06 11:33:02...processing table prospects
+2018-06-06 11:33:02...dropping table prospects
+2018-06-06 11:33:02...creating table prospects
+2018-06-06 11:33:02...creating Relationship Meta for Prospect
+2018-06-06 11:33:02...processing table email_marketing
+2018-06-06 11:33:03...dropping table email_marketing
+2018-06-06 11:33:03...creating table email_marketing
+2018-06-06 11:33:03...creating Relationship Meta for EmailMarketing
+2018-06-06 11:33:03...processing table campaign_trkrs
+2018-06-06 11:33:03...dropping table campaign_trkrs
+2018-06-06 11:33:03...creating table campaign_trkrs
+2018-06-06 11:33:03...creating Relationship Meta for CampaignTracker
+2018-06-06 11:33:03...processing table releases
+2018-06-06 11:33:03...dropping table releases
+2018-06-06 11:33:03...creating table releases
+2018-06-06 11:33:03...creating Relationship Meta for Release
+2018-06-06 11:33:03...processing table emailman
+2018-06-06 11:33:03...dropping table emailman
+2018-06-06 11:33:03...creating table emailman
+2018-06-06 11:33:03...creating Relationship Meta for EmailMan
+2018-06-06 11:33:03...processing table schedulers
+2018-06-06 11:33:03...dropping table schedulers
+2018-06-06 11:33:03...creating table schedulers
+2018-06-06 11:33:03...creating Relationship Meta for Scheduler
+2018-06-06 11:33:03...processing table job_queue
+2018-06-06 11:33:03...dropping table job_queue
+2018-06-06 11:33:03...creating table job_queue
+2018-06-06 11:33:03...creating Relationship Meta for SchedulersJob
+2018-06-06 11:33:03...processing table contacts
+2018-06-06 11:33:03...dropping table contacts
+2018-06-06 11:33:03...creating table contacts
+2018-06-06 11:33:03...creating Relationship Meta for Contact
+2018-06-06 11:33:03...processing table accounts
+2018-06-06 11:33:03...dropping table accounts
+2018-06-06 11:33:03...creating table accounts
+2018-06-06 11:33:03...creating Relationship Meta for Account
+2018-06-06 11:33:03...processing table opportunities
+2018-06-06 11:33:03...dropping table opportunities
+2018-06-06 11:33:03...creating table opportunities
+2018-06-06 11:33:03...creating Relationship Meta for Opportunity
+2018-06-06 11:33:03...processing table email_templates
+2018-06-06 11:33:03...dropping table email_templates
+2018-06-06 11:33:03...creating table email_templates
+2018-06-06 11:33:03...creating Relationship Meta for EmailTemplate
+2018-06-06 11:33:03...processing table notes
+2018-06-06 11:33:03...dropping table notes
+2018-06-06 11:33:03...creating table notes
+2018-06-06 11:33:03...creating Relationship Meta for Note
+2018-06-06 11:33:03...processing table calls
+2018-06-06 11:33:03...dropping table calls
+2018-06-06 11:33:04...creating table calls
+2018-06-06 11:33:04...creating Relationship Meta for Call
+2018-06-06 11:33:04...processing table emails
+2018-06-06 11:33:04...dropping table emails
+2018-06-06 11:33:04...creating table emails
+2018-06-06 11:33:04...creating Relationship Meta for Email
+2018-06-06 11:33:04...processing table meetings
+2018-06-06 11:33:04...dropping table meetings
+2018-06-06 11:33:04...creating table meetings
+2018-06-06 11:33:04...creating Relationship Meta for Meeting
+2018-06-06 11:33:04...processing table tasks
+2018-06-06 11:33:04...dropping table tasks
+2018-06-06 11:33:04...creating table tasks
+2018-06-06 11:33:04...creating Relationship Meta for Task
+2018-06-06 11:33:04...processing table users
+2018-06-06 11:33:04...processing table users
+2018-06-06 11:33:04...processing table currencies
+2018-06-06 11:33:04...dropping table currencies
+2018-06-06 11:33:04...creating table currencies
+2018-06-06 11:33:04...creating Relationship Meta for Currency
+2018-06-06 11:33:04...processing table tracker
+2018-06-06 11:33:04...dropping table tracker
+2018-06-06 11:33:04...creating table tracker
+2018-06-06 11:33:04...creating Relationship Meta for Tracker
+2018-06-06 11:33:04...processing table import_maps
+2018-06-06 11:33:04...dropping table import_maps
+2018-06-06 11:33:04...creating table import_maps
+2018-06-06 11:33:04...creating Relationship Meta for ImportMap
+2018-06-06 11:33:04...processing table users_last_import
+2018-06-06 11:33:04...dropping table users_last_import
+2018-06-06 11:33:04...creating table users_last_import
+2018-06-06 11:33:04...creating Relationship Meta for UsersLastImport
+2018-06-06 11:33:04...processing table config
+2018-06-06 11:33:04...dropping table config
+2018-06-06 11:33:04...creating table config
+2018-06-06 11:33:04...creating Relationship Meta for Administration
+2018-06-06 11:33:04...processing table upgrade_history
+2018-06-06 11:33:04...dropping table upgrade_history
+2018-06-06 11:33:04...creating table upgrade_history
+2018-06-06 11:33:04...creating Relationship Meta for UpgradeHistory
+2018-06-06 11:33:04...processing table vcals
+2018-06-06 11:33:04...dropping table vcals
+2018-06-06 11:33:04...creating table vcals
+2018-06-06 11:33:04...creating Relationship Meta for vCal
+2018-06-06 11:33:04...processing table versions
+2018-06-06 11:33:04...dropping table versions
+2018-06-06 11:33:04...creating table versions
+2018-06-06 11:33:04...creating Relationship Meta for Version
+2018-06-06 11:33:04...processing table roles
+2018-06-06 11:33:04...dropping table roles
+2018-06-06 11:33:04...creating table roles
+2018-06-06 11:33:04...creating Relationship Meta for Role
+2018-06-06 11:33:04...processing table documents
+2018-06-06 11:33:04...dropping table documents
+2018-06-06 11:33:04...creating table documents
+2018-06-06 11:33:04...creating Relationship Meta for Document
+2018-06-06 11:33:04...processing table document_revisions
+2018-06-06 11:33:04...dropping table document_revisions
+2018-06-06 11:33:04...creating table document_revisions
+2018-06-06 11:33:04...creating Relationship Meta for DocumentRevision
+2018-06-06 11:33:04...processing table fields_meta_data
+2018-06-06 11:33:04...dropping table fields_meta_data
+2018-06-06 11:33:04...creating table fields_meta_data
+2018-06-06 11:33:04...creating Relationship Meta for FieldsMetaData
+2018-06-06 11:33:04...processing table inbound_email
+2018-06-06 11:33:04...dropping table inbound_email
+2018-06-06 11:33:04...creating table inbound_email
+2018-06-06 11:33:04...creating Relationship Meta for InboundEmail
+2018-06-06 11:33:04...processing table saved_search
+2018-06-06 11:33:04...dropping table saved_search
+2018-06-06 11:33:04...creating table saved_search
+2018-06-06 11:33:04...creating Relationship Meta for SavedSearch
+2018-06-06 11:33:04...processing table user_preferences
+2018-06-06 11:33:04...dropping table user_preferences
+2018-06-06 11:33:04...creating table user_preferences
+2018-06-06 11:33:04...creating Relationship Meta for UserPreference
+2018-06-06 11:33:04...processing table 
+2018-06-06 11:33:04...processing table email_addresses
+2018-06-06 11:33:04...dropping table email_addresses
+2018-06-06 11:33:04...creating table email_addresses
+2018-06-06 11:33:04...creating Relationship Meta for EmailAddress
+2018-06-06 11:33:04...processing table emails_text
+2018-06-06 11:33:04...dropping table emails_text
+2018-06-06 11:33:04...creating table emails_text
+2018-06-06 11:33:04...creating Relationship Meta for EmailText
+2018-06-06 11:33:04...processing table sugarfeed
+2018-06-06 11:33:04...dropping table sugarfeed
+2018-06-06 11:33:04...creating table sugarfeed
+2018-06-06 11:33:04...creating Relationship Meta for SugarFeed
+2018-06-06 11:33:04...processing table eapm
+2018-06-06 11:33:04...dropping table eapm
+2018-06-06 11:33:04...creating table eapm
+2018-06-06 11:33:04...creating Relationship Meta for EAPM
+2018-06-06 11:33:04...processing table oauth_consumer
+2018-06-06 11:33:04...dropping table oauth_consumer
+2018-06-06 11:33:04...creating table oauth_consumer
+2018-06-06 11:33:04...creating Relationship Meta for OAuthKey
+2018-06-06 11:33:04...processing table oauth_tokens
+2018-06-06 11:33:04...dropping table oauth_tokens
+2018-06-06 11:33:04...creating table oauth_tokens
+2018-06-06 11:33:04...creating Relationship Meta for OAuthToken
+2018-06-06 11:33:06...Begin creating Defaults
+2018-06-06 11:33:06...insert defaults into config table
+2018-06-06 11:33:06...Creating default users
+2018-06-06 11:33:06...Creating default scheduler jobs
+2018-06-06 11:33:06...Enable SugarFeeds
+2018-06-06 11:33:06...Enable InsideView Connector
+2018-06-06 11:33:06...Creating FTS logic hook
+2018-06-06 11:33:06...populating the db with seed data
+2018-06-06 11:33:26...Installation has completed *********
+2018-06-06 11:33:46...installerHook: Could not find custom/install/install_hooks.php
+2018-06-06 11:33:48...installerHook: Could not find custom/install/install_hooks.php
