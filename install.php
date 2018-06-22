@@ -34,6 +34,7 @@
  * technical reasons, the Appropriate Legal Notices must display the words
  * "Powered by SugarCRM".
  ********************************************************************************/
+/*TST*/
 
 //session_destroy();
 if (version_compare(phpversion(),'5.2.0') < 0) {

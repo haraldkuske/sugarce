@@ -34,6 +34,7 @@
  * technical reasons, the Appropriate Legal Notices must display the words
  * "Powered by SugarCRM".
  ********************************************************************************/
+/*TST*/
 
 //change directories to where this file is located.
 //this is to make sure it can find dce_config.php
